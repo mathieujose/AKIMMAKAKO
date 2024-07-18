@@ -1,1 +1,1 @@
-Ajouter des descriptions dans se fichier !
+une plateforme e-commerce (boutique et place de marché) utilisant PrestaShop, qui respecte les normes internationales, offre une expérience utilisateur de qualité, et permet de gérer efficacement des produits dans plusieurs catégories.
